@@ -15,3 +15,7 @@ fastapi
 uvicorn
 langchain
 whisper
+langchain-community
+pydantic
+requests
+python-multipart
